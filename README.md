@@ -122,11 +122,5 @@ ai_brain.predict(x_n1_1)
 ![image](https://user-images.githubusercontent.com/75235427/187089392-fbd87f9e-f4fe-4d25-b455-746c4ba12bf7.png)
 
 
-
-
-
-
-
-
 ## RESULT
 Thus the Neural network for Regression model is Implemented successfully.
