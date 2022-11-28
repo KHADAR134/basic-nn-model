@@ -18,7 +18,6 @@ First import the libraries which we will going to use and Import the dataset and
 
 ![image](https://user-images.githubusercontent.com/75235427/187089091-2cce1477-ecd8-4d51-bfc6-540f7069ca06.png)
 
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -50,7 +49,6 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-
 ```python
 
 #Importing Required Packages
@@ -122,6 +120,12 @@ ai_brain.predict(x_n1_1)
 ### New Sample Data Prediction
 
 ![image](https://user-images.githubusercontent.com/75235427/187089392-fbd87f9e-f4fe-4d25-b455-746c4ba12bf7.png)
+
+
+
+
+
+
 
 
 ## RESULT
